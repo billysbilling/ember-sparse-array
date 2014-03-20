@@ -28,7 +28,7 @@ function createSparseArray(batchSize) {
         didChange: function(array, start, removed, added) {
             didChanges.push([start, removed, added]);
         }
-    })
+    });
 }
 
 QUnit.module('sparse-array', {
