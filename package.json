@@ -1,0 +1,8 @@
+{
+  "name": "ember-sparse-array",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "billy-builder": "~1.0.0"
+  }
+}
