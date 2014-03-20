@@ -1,4 +1,4 @@
-# Ember.js Sparse Array
+# Ember.js Sparse Array [![Build Status](https://travis-ci.org/billysbilling/billy-data-fixture-adapter.svg?branch=master)](https://travis-ci.org/billysbilling/billy-data-fixture-adapter)
 
 A sparse array implementation to use in Ember.js projects. It automatically fetches items on-demand.
 
