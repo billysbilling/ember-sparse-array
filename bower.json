@@ -2,13 +2,7 @@
   "name": "ember-sparse-array",
   "version": "0.1.0",
   "homepage": "https://github.com/billysbilling/ember-sparse-array",
-  "main": "src/js/REPLACE-ME.js",
-  "billy-builder": {
-    "include": [
-      "src/js",
-      "src/templates"
-    ]
-  },
+  "main": "src/sparse-array.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
